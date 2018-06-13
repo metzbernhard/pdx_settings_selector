@@ -23,7 +23,7 @@ Nächste organisatorische Einheit: Provinz -> mehrere Städte (10-12)
 
 Beispiel Sizilien, EU2 zwei Provinzen, CK2 fünf, EU4 drei, HoI 4 neun und Rome 23 Städte in zwei Provinzen mit vier unpassierbaren Gebirgen
 
-![2](https://forum.paradoxplaza.com/forum/index.php?attachments/2018_06_04_6-png.376350)
+![2](https://forum.paradoxplaza.com/forum/index.php?attachments/2018_06_04_6-png)
 
 Gründe für Startdatum: Interessante Zeit für Rom & die Diadochen im Osten.
 Integration des südlichen Skandinaviens bewusst, da zum Startzeitpunkt die ursprünglichen germanischen Stämme aus Skandinavien nach Deutschland gewandert sind
